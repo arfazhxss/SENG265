@@ -1,7 +1,0 @@
-Mango
-Apple
-Banana
-OtherApple
-GoodApple
-BadApple
-MangoBanana
